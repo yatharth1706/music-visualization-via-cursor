@@ -1,3 +1,9 @@
+## Music Visualization Tool
+Hi all, this is a simple music visualization tool which i built using Cursor IDE. Used Cursor composer feature in this which is very good. 
+
+![Screenshot 2024-08-31 at 10 55 07 PM](https://github.com/user-attachments/assets/f552fe54-e3ff-4e06-96c5-cc3297421196)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
