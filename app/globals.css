@@ -31,3 +31,34 @@ body {
     text-wrap: balance;
   }
 }
+
+.rhap_container {
+  background-color: theme('colors.slate.800') !important;
+  box-shadow: none !important;
+}
+
+.rhap_time, .rhap_current-time {
+  color: theme('colors.slate.200') !important;
+}
+
+.rhap_progress-indicator, .rhap_progress-filled, .rhap_volume-indicator {
+  background-color: theme('colors.blue.500') !important;
+}
+
+.rhap_progress-container, .rhap_volume-container {
+  color: theme('colors.slate.400') !important;
+}
+
+.rhap_main-controls-button, .rhap_volume-button {
+  color: theme('colors.slate.200') !important;
+}
+
+.rhap_play-pause-button {
+  font-size: 40px !important;
+  width: 40px !important;
+  height: 40px !important;
+}
+
+.rhap_container {
+  padding: 10px !important;
+}
